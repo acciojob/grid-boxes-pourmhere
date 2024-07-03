@@ -17,6 +17,7 @@
 }
 .grid-item2 {
   grid-row:span 4/auto;
+  grid-column:span 1/auto;
 }
 .grid-item3 {
   grid-column:span 1/3;
